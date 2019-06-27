@@ -1,4 +1,4 @@
-## Welcome to My Zone，I'm Zhong Ziwen😁
+## Welcome to My Zone，I'm Zhong Ziwen
 
 You can use the [editor on GitHub](https://github.com/zw-zhong/zzw/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# 简历
+# 简历😝
 ## Header 2
 ### Header 3
 
